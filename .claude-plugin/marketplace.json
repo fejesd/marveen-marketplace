@@ -17,8 +17,8 @@
       "category": "channel",
       "source": {
         "source": "url",
-        "url": "https://github.com/Szotasz/claude-code-slack-channel.git",
-        "ref": "main"
+        "url": "https://github.com/fejesd/claude-code-slack-channel.git",
+        "ref": "marveen"
       }
     },
     {
